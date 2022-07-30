@@ -1,6 +1,6 @@
 # AstroMatch
 
-prjeto ficticio de um site de relacionamento realizado através do Bootcam da Labenu
+projeto ficticio de um site de relacionamento realizado através do Bootcam da Labenu
 
 ## Tecnologia Utilizadas
 
