@@ -8,7 +8,7 @@ ReacJs, Styled-Components, Hooks, Requisições de API com a Blibioteca Axios.
 
 ## Acessar o site
 
-[Link do surge](http://astromach-jord-labenu.surge.sh)
+[Link](http://astromach-jord-labenu.surge.sh)
 
 ## Screenshot
 
